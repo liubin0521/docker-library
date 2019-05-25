@@ -1,1 +1,1 @@
-docker pull gcr.io/kubernetes-helm/tiller:v2.14.0
+FROM gcr.io/kubernetes-helm/tiller:v2.14.0
